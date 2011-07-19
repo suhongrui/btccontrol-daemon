@@ -1,1 +1,8 @@
 Daemon half of the bitcoin control project.
+
+requires python modules
+--------
+paramiko
+httplib2
+twisted
+--------
